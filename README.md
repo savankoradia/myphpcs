@@ -5,9 +5,10 @@ Aim of this project is to sniff php code for current project. This is opensource
 
 ## How to install in your localhost
  1. download this code in your htdocs directory.
- 2. create virtualhost.
- 3. global.config.php stores important variables.
- 4. start using code.
+ 2. install php-codesniffer in your laptop => http://pear.php.net/package/PHP_CodeSniffer
+ 3. create virtualhost.
+ 4. global.config.php stores important variables.
+ 5. start using code.
 
 
 ## How to Contribute
