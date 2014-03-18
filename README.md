@@ -1,7 +1,7 @@
 # My Code Sniffer [savan koradia]
 
 ## Overview
-Aim of this project is to sniff php code for current project. This is opensource. Feel Free to use and share.
+Aim of this project is to sniff php code for current project. This is opensource project. Feel Free to use and share.
 
 ## How to install in your localhost
  1. download this code in your htdocs directory.
@@ -17,7 +17,7 @@ Aim of this project is to sniff php code for current project. This is opensource
  2. Submit pull request for consideration
 
 
-### Contribute Style Guide 
+## Contribute Style Guide 
 
  1. Be clear on your commit messages 
  2. Every pull request may not be accepted. Don't blame anybody. 
